@@ -1,1 +1,2 @@
-# Neural methods for crowdsourcing
+# NeuralCrowds
+Deep learning methods for crowdsourcing
